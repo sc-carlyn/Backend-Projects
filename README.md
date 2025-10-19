@@ -1,15 +1,11 @@
 # Backend Mini Projects
 
-This repository contains 4 small backend projects developed to practice REST API development and basic backend concepts using JavaScript.
+This repository contains 3 small backend projects developed to practice REST API development and basic backend concepts using JavaScript.
 
 ## Projects
 
 ### 1. Blog API
 - Description: A RESTful API for creating, reading, updating, and deleting blog posts.
-- Technologies: JavaScript
-
-### 2. User Management System
-- Description: Handles user registration, login, and profile management.
 - Technologies: JavaScript
 
 ### 3. Note Taking Application
